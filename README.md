@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Syed-Sidra/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Syed-Sidra/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Syed-Sidra/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/Syed-Sidra/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Syed-Sidra/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Syed-Sidra/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Hash Table
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Syed-Sidra/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Syed-Sidra/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Syed-Sidra/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
